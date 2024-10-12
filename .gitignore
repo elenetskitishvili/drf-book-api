@@ -1,0 +1,63 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Django migrations
+*.log
+*.pot
+*.pyc
+*.pyo
+*.sqlite3
+
+# Django specific
+db.sqlite3
+*.sqlite3
+*.log
+.env
+
+# If you are using SQLite database
+*.sqlite3
+
+# VS Code specific files
+.vscode/
+.vscode/*
+
+# PyCharm specific files (if you switch between editors)
+.idea/
+
+# Local environment variables
+.env
+
+# Virtual environments
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# pip related files
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Python specific files
+*.pyd
+*.pdb
+*.egg
+*.eggs
+*.egg-info
+dist/
+build/
+*.manifest
+*.spec
+
+# Windows specific files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# macOS specific files
+.DS_Store
